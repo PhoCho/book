@@ -1,0 +1,3 @@
+tablespace
+service run as auto run in window server
+install server manually
